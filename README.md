@@ -48,4 +48,5 @@
 3. [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) Used for graphics patching, DRM fixes, board ID checks, framebuffer fixes, etc; all GPUs benefit from this kext.
 4. [AppleALC](https://github.com/acidanthera/AppleALC/releases) Used for AppleHDA patching, allowing support for the majority of on-board sound controllers.
 5. etc
+
 Full list of files, please refer to [OpenCore tutorial](https://dortania.github.io/OpenCore-Install-Guide/).
