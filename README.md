@@ -30,6 +30,7 @@
 - HDMI
 - HDMI Audio
 - AirDrop and Handoff (I think it works, I don't have another Apple device to test it)
+- iServices (iMessages, FaceTime, iCloud)
 - Etc
 
 ## Not Working
