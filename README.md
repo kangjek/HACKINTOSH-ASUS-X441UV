@@ -31,11 +31,10 @@
 - HDMI Audio
 - AirDrop and Handoff (I think it works, I don't have another Apple device to test it)
 - iServices (iMessages, FaceTime, iCloud)
-- Etc
+- Shutdown, Restart, Sleep
 
 ## Not Working
 - GeForce 920mx (Not supported by Monterey)
-- Sleep (sleep on my laptop is broken, both on Windows or macOS)
 
 ## **About Files**
 - This EFI file is based from OpenCore bootloader, not working on Clover etc. 
